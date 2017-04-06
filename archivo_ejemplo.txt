@@ -1,0 +1,1 @@
+este archivo fue creado luego de haber creado el repo en github, hacer git init en mi carpeta local y ejecutar el comando git remote add origin <url del proyecto>
